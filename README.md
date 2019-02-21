@@ -6,7 +6,7 @@ Solved using python script
 
 ## Usage
 ```
-$ python hashMe.pu
+$ python hashMe.py
 Enter username: [your_username]
 Enter password: [your_password]
 
