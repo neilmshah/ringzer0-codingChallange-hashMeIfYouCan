@@ -7,7 +7,7 @@ Solved using python script
 ## Usage
 ```
 $ python hashMe.py
-Enter username: [your_username]
-Enter password: [your_password]
+Enter username: [enter ringzer0 username]
+Enter password: [enter ringzer0 password]
 
 ```
